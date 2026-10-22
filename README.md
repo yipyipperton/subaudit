@@ -3,7 +3,7 @@
 A plain list of your subscriptions, what they cost (from numbers **you** enter), and reminders before they renew.
 No bank linking. No account required. No invented savings.
 
-**Live:** https://subaudit.vercel.app
+**Live:** https://subaudit-ruddy.vercel.app (currently local mode — sign-in needs a Resend key or GitHub OAuth app; see env vars)
 
 ## Features
 - **Dashboard** — monthly burn, annual total, amount due in the next 30 days (per currency, never converted), category chart, search / filter / sort. Unknown prices stay "Unknown" and are excluded from totals with a visible note.
